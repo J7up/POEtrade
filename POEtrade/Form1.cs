@@ -25,6 +25,7 @@ namespace POEtrade
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             Item it = new Item
             {
                 name = textBox1.Text,
